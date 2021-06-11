@@ -21,6 +21,7 @@ Ter instalado os seguintes:
 Uma forma fácil de se instalar as bibliotecas, depois de ter instalado o python e ter feito o pull request do 
 repositório, é com o comando:
 * pip install -r requirements.txt
+
 Com tudo pronto, simplesmente rodar o programa com o comando:
 * python3 desafio_seazone.py 
 
