@@ -18,12 +18,15 @@ Ter instalado os seguintes:
 * Pandas     1.2
 * Matplotlib 3.4
 
-Uma forma fácil de se instalar todos eles é com o comando *pip install -r requirements.txt*.
-Com tudo pronto, simplesmente rodar o programa com o comando *py desafio_seazone.py* no terminal.
+Uma forma fácil de se instalar as bibliotecas, depois de ter instalado o python e ter feito o pull request do 
+repositório, é com o comando:
+* pip install -r requirements.txt
+Com tudo pronto, simplesmente rodar o programa com o comando:
+* python3 desafio_seazone.py 
 
 ## Contexto
 Esse script foi um desafio criado a partir de um processo seletivo para estágio na empresa Seazone.
 
 ## Outras Informações
-* autor: Artur Brito
-* contato: arturmelobrito@hotmail.com
+* Autor: Artur Brito
+* Contato: arturmelobrito@hotmail.com

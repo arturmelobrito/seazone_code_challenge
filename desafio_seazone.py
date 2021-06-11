@@ -1,5 +1,4 @@
 import pandas as pd
-import pdb
 from datetime import datetime
 import matplotlib.pyplot as plt
 
@@ -175,8 +174,8 @@ def analise_listings(df_price, df_details):
 
 def main():
 
-    df_price = pd.read_csv("desafio_priceav(1)(2).csv")
-    df_details = pd.read_csv("desafio_details(1)(2).csv")
+    df_price = pd.read_csv("desafio_priceav.csv")
+    df_details = pd.read_csv("desafio_details.csv")
 
 
     #1 - Bairros ordenados por número de listings
